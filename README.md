@@ -78,11 +78,11 @@ pulse-api-secure/
 │   │   │               │   └── UserService.java
 │   │   │               │
 │   │   │               └── utils/
-│   │   │                   ├── CustomeCustomerDetailsService.java
-│   │   │                   ├── DatabaseInitializer.java
-│   │   │                   └── RoleInitializer.java
-│   │   │
-│   │   ├── ─── ─── ─── ── PulseApiSecureApplication.java
+│   │   │               │   ├── CustomeCustomerDetailsService.java
+│   │   │               │   ├── DatabaseInitializer.java
+│   │   │               │   └── RoleInitializer.java
+│   │   │               │
+│   │   │               └── PulseApiSecureApplication.java
 │   │   │
 │   │   └── resources/
 │   │       └── application.properties
